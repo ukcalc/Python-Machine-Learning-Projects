@@ -14,7 +14,7 @@ The process of learning begins with data, such as, direct experience, or instruc
 This repository is about different Machine Learning algorithm approaches as per the industry practices.
 
 ## Table of Contents
-
--   [Car Risk EDA](https://github.com/ukcalc/Python-Machine-Learning-Projects#section1)  
+ 
+-   [Car Risk EDA](https://github.com/ukcalc/Python-Machine-Learning-Projects/tree/main/Car-Risk)  
     
--   [HR Employee Attrition](https://github.com/ukcalc/Python-Machine-Learning-Projects#section2)
+-   [HR Employee Attrition](https://github.com/ukcalc/Python-Machine-Learning-Projects/tree/main/HR-Employee-Attrition
