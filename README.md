@@ -17,4 +17,4 @@ This repository is about different Machine Learning algorithm approaches as per 
  
 -   [Car Risk EDA](https://github.com/ukcalc/Python-Machine-Learning-Projects/tree/main/Car-Risk)  
     
--   [HR Employee Attrition](https://github.com/ukcalc/Python-Machine-Learning-Projects/tree/main/HR-Employee-Attrition
+-   [HR Employee Attrition](https://github.com/ukcalc/Python-Machine-Learning-Projects/tree/main/HR-Employee-Attrition)
